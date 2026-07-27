@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nfixbc.hsteamhost.xyz/sitemap.xml
